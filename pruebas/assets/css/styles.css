@@ -1,3 +1,11 @@
+.body{
+    background-color: rgb(250, 234, 203);
+}
+
+.container{
+    background-color: white;
+}
+
 .Info{
     font-size: 18px;
     color: #444444;
@@ -20,12 +28,4 @@
     background-color: brown;
     padding: 60px;
     border-radius: 10px;
-}
-
-.body{
-    background-color: rgb(250, 234, 203);
-}
-
-.container{
-    background-color: white;
 }
