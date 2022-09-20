@@ -1,0 +1,22 @@
+.Info{
+    font-size: 18px;
+    color: #444444;
+}
+
+.Info-1{
+    padding: 30px;
+    font-size: 18px;
+    color: #444444;
+    text-align: center;
+}
+
+.Footer-1{
+    font-size: 15px;
+    color: #444444;
+}
+
+.Titulo{
+    color: white;
+    background-color: brown;
+    padding: 60px;
+}
